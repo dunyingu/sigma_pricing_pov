@@ -1,0 +1,11 @@
+matplotlib==3.5.3
+numpy==1.23.4
+pandas==1.4.4
+pytest==7.1.2
+streamlit
+streamlit-plotly-events
+streamlit-aggrid
+snowflake-connector-python[pandas]
+snowflake_snowpark_python==1.0.0
+azure-identity
+azure-keyvault-secrets
